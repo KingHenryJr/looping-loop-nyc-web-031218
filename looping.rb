@@ -1,7 +1,7 @@
 def looping
 	
 	loop 
-	
+	puts "Wingardium Leviosa"
 	
 	break
 	
