@@ -1,5 +1,10 @@
 def looping
-	#your code here
+	
+	loop 
+	
+	
+	break
+	
 end
 
 #call your method here
